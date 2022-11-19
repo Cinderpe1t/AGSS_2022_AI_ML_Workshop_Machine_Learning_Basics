@@ -27,7 +27,7 @@ Let's learn neural network machine learning basics
 fashion_mnist = tf.keras.datasets.fashion_mnist
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 ```
-- If you can configure Tensorflow, running through the classification tutorial will bring you to the equivalent demonstration.
+- If you can configure Tensorflow, the classification tutorial will be an equivalent and original demonstration of machine learning.
 - There are 60,000 training clothing items with ten item labels.
 - Each image has 28x28=768 pixels
 - There are 10,000 evaluation clothing images to evaluate neural network training accuracy
