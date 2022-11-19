@@ -33,3 +33,5 @@ fashion_mnist = tf.keras.datasets.fashion_mnist
 - There are 10,000 evaluation clothing images to evaluate neural network training accuracy
 - You can change neural network number of layers and size at each layer
 - Competition: which team would make best trained machine in given time?
+
+[Next - Machine Learning Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Machine_Learning_Tic_Tac_Toe) / [Top - AGSS 2022 AI ML Workshop](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop)
